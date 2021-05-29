@@ -1,0 +1,37 @@
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between ;
+    font-size: 20px;
+    font-weight: 400;
+    color: green;
+}
+
+.bodyimg{
+    background-color: grey;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.grid img{
+    border: 2px solid
+    black;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20px;
+    background-color: black;
+
+    width: 310px;
+    font-family: serif;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
